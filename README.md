@@ -23,6 +23,7 @@ Senior.Greetings()
 
 ## Skills
 ### 💻 OS
+![](https://img.shields.io/badge/-MacOS-lightgrey)
 ![](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=Ubuntu&logoColor=black)
 ![](https://img.shields.io/badge/Kali-557C94.svg?logo=KaliLinux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6.svg?logo=Windows&logoColor=black)
@@ -36,11 +37,6 @@ Senior.Greetings()
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
-
-### 🏗️ Web Design Languages
-![](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases 
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
@@ -58,7 +54,7 @@ Senior.Greetings()
 ![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&logoColor=white)
 
-## Social 
+## 🏗️ Social 
 - [Website](https://notsenior.dev)
 - [Twitter](https://twitter.com/seniorqy3)
 ![](https://img.shields.io/twitter/follow/seniorqy3?style=for-the-badge)
