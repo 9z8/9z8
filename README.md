@@ -13,7 +13,7 @@ class Senior:
     def __init__(self):
         self.name = 'Senior'
         self.role = 'Developer | Ethical Hacker'
-        self.languages = ['Python', 'JavaScript', 'Bash']
+        self.languages = ['Python', 'C++', 'Java']
         self.language_spoken = ['en_US', 'ar_AR']
     def Greetings(self):
         print('Hope you find some of my work interesting.')
