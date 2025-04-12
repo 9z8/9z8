@@ -54,7 +54,6 @@ Senior.Greetings()
 ![](https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&logoColor=white)
 
 ## 🏗️ Social 
-- [Website](https://notsenior.dev)
 - [Twitter](https://twitter.com/seniorqy3)
 ![](https://img.shields.io/twitter/follow/seniorqy3?style=for-the-badge)
 - [Twitch](https://www.twitch.tv/seniorqy3)
